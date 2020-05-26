@@ -1,0 +1,30 @@
+COVID-19 (od ang. Coronavirus Disease 2019) – ostra choroba zakaźna układu oddechowego wywołana zakażeniem wirusem SARS-CoV-2. Została po raz pierwszy rozpoznana i opisana w listopadzie 2019, w środkowych Chinach (miasto Wuhan, w prowincji Hubei) podczas serii zachorowań zapoczątkowującej pandemię tej choroby.
+
+Standardową metodą diagnozowania zakażenia jest test reakcji łańcuchowej polimerazy z odwróconą transkrypcją (rRT-PCR) wykonany z wymazu nosowo-gardłowego lub próbki plwociny, który dostarcza wyniki w czasie od kilku godzin do dwóch dni. Analiza przeciwciał z próbki surowicy krwi również może być wykorzystana jako metoda diagnostyczna, pozwalająca na otrzymanie wyniku w przeciągu kilku dni. Choroba może także zostać zdiagnozowana na podstawie oceny kombinacji objawów, czynników ryzyka oraz wyniku badania tomografii komputerowej klatki piersiowej, wykazującego cechy zapalenia płuc.
+
+Stanowisko WHO na podstawie danych z 3 marca 2020 mówi o śmiertelności na poziomie 3,4%[14]. 30 stycznia 2020 roku WHO ogłosiło stan zagrożenia dla zdrowia publicznego o zasięgu międzynarodowym w wyniku rozprzestrzeniającej się epidemii COVID-19. 11 marca 2020 WHO uznała serię zachorowań na COVID-19 występującą od grudnia 2019 za pandemię.
+Potwierdzone przypadki COVID-19 w poszczególnych krajach (animacja mapy obejmuje okres od 12 stycznia do 29 lutego 2020)
+
+Do 14 kwietnia 2020, w zależności od źródła, stwierdzono na świecie od 1848 tys. do 1979 tys. przypadków zachorowań (w tym w UE około 803 tys.), z czego od 117 tys. do 126 tys. zgonów (w tym UE – 77 tys. zgonów)
+
+Większość pacjentów ma łagodne objawy i dobre rokowania, do typowych objawów choroby zaliczają się gorączka, suchy kaszel, zmęczenie i płytki oddech. Do mniej częstych objawów należą m.in. biegunka, ból gardła, katar oraz kichanie[30]. Większość przypadków choroby ma łagodny przebieg[31], jednak część może prowadzić do zapalenia płuc lub niewydolności wielonarządowej[7][8].
+
+Rozwijające się zakażenie wirusem może prowadzić do zapalenia płuc, zespołu ostrej niewydolności oddechowej, posocznicy i wstrząsu septycznego oraz do śmierci. Najczęstszy okres wylęgania wirusa wynosi od 1 do 14 dni, a jego mediana wynosi 5–6 dni.
+
+Na podstawie danych dostarczonych przez 55 924 potwierdzonych badaniami laboratoryjnymi przypadków zachorowań na COVID-2019 w Chinach, WHO wyszczególniło częstość występowania poniższych objawów:
+Gorączka 	
+Suchy kaszel 	
+Zmęczenie 	
+Odkrztuszanie plwociny 	
+Płytki oddech 	
+Ból mięśni lub stawów 	
+Ból gardła 	
+Ból głowy 	
+Dreszcze 	
+Nudności lub wymioty 
+Zatkany nos 	
+Biegunka 	
+Krwioplucie 	
+Przekrwienie spojówek 
+
+W badaniu 1099 chińskich pacjentów za pomocą tomografii komputerowej stwierdzono zmiany w płucach typu mlecznej szyby w 56% przypadków. Zmian w badaniu radiologicznym nie wykazano u 17,9% pacjentów z łagodną postacią choroby oraz u 2,9% pacjentów z ciężką postacią choroby. Limfopenia była obecna u 83,2% przyjętych pacjentów. 5% pacjentów zostało przyjętych na oddziały intensywnej terapii, 2,3% wymagało mechanicznego wspomagania wentylacji płuc, a 1,4% zmarło. Według zespołu badawczego Bernheima obustronne i obwodowe zacienienia w płucach typu mlecznej szyby są najczęstszymi objawami widocznymi na skanach tomografii komputerowej. Konsolidacje miąższu płucnego, liniowe zacienienia płuc oraz objaw odwróconego halo to inne typowe symptomy widoczne w obrazowaniu radiologicznym. Początkowo zmiany są widoczne w jednym płucu, jednak – wraz z rozwojem choroby – u 88% pacjentów stają się obecne w obu płucach. Dzieci zdają się przechodzić chorobę lepiej niż dorośli i występują u nich łagodniejsze objawy, jednak brakuje wciąż danych, aby stwierdzić to jednoznacznie. 
