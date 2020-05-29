@@ -1,8 +1,7 @@
 #załadowanie bibliotek
 
 #zmiana katalogu roboczego
-#workDir <- "F:/KW/TextMining11S"
-workDir <- "F:\\KW\\TextMining11S"
+workDir <- "C:\\TextMining"
 setwd(workDir)
 
 #definicja katalogu ze skryptami
@@ -20,7 +19,7 @@ source(sourceFile)
 pca <- prcomp(dtmTfidfBounds)
 
 #wykres dokumentów w przestrzeni dwuwymiatowej
-legend <- paste(paste("d", 1:19, sep = ""), rownames(dtmTfidfBounds), sep = "<-")
+legend <- paste(paste("d", 1:20, sep = ""), rownames(dtmTfidfBounds), sep = "<-")
 options(scipen = 5)
 x <- pca$x[,1]
 y <- pca$x[,2]
@@ -33,7 +32,7 @@ plot(
 text(
   x, 
   y, 
-  paste("d", 1:19, sep = ""), 
+  paste("d", 1:20, sep = ""), 
   col = "orange",
   pos = 4
 )

@@ -99,13 +99,13 @@ matrixFile <- paste(
   "tdmTfidfBounds.csv",
   sep = "\\"
 )
-#write.table(
-#  tdmTfidfBoundsMatrix,
-#  file = matrixFile,
- # sep = ";",
-  #dec = ",",
-  #col.names = NA
-#)
+write.table(
+  tdmTfidfBoundsMatrix,
+  file = matrixFile,
+  sep = ";",
+  dec = ",",
+  col.names = NA
+)
 
 
 
